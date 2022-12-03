@@ -1,3 +1,3 @@
 # Image Classification of Fashion MNIST
  
-The project was born for didactic purposes, the goal is implements all the best practices of Conv.2D Layers.
+The project was born for didactic purposes, the goal is to implement all the best practices of the Conv2d Layers.
